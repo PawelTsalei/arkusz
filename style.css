@@ -1,4 +1,6 @@
-
+h2 {
+    margin: 0;
+}
  #d {display: flex;
 flex-direction: row;}
 #q {width: 80%;}
@@ -54,5 +56,6 @@ flex-direction: row;}
     color: white;
     text-align: center;
 }
+
 
 
