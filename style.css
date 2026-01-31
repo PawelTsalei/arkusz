@@ -1,0 +1,58 @@
+
+ #d {display: flex;
+flex-direction: row;}
+#q {width: 80%;}
+
+
+#header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+
+
+#nav {
+    background-color: skyblue;
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+
+
+#main1 {display: flex;}
+   
+
+
+
+#lewa {
+    background-color: red;
+    color: white;
+    min-height: 300px;
+    width: 50%;text-align: center;
+}
+
+
+#mid {
+    background-color: green;
+    color: white;
+    min-height: 300px;
+    width: 50%;text-align: center;
+}
+
+
+#boczny {
+    background-color: orange;
+    color: white;
+    min-height: 300px;
+    width: 20%;text-align: center;
+}
+
+
+#footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+
