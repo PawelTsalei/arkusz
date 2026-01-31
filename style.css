@@ -1,3 +1,6 @@
+*{margin: 0;
+padding: 0;}
+
 h2 {
     margin: 0;
 }
@@ -22,7 +25,8 @@ flex-direction: row;}
 }
 
 
-#main1 {display: flex;}
+#main1 {display: flex;
+       min-height: 100vh;}
    
 
 
@@ -56,6 +60,7 @@ flex-direction: row;}
     color: white;
     text-align: center;
 }
+
 
 
 
