@@ -25,7 +25,7 @@ flex-direction: row;}
 
 
 #main1 {display: flex;
-       min-height: 300px;}
+       }
    
 
 
@@ -59,6 +59,7 @@ flex-direction: row;}
     color: white;
     text-align: center;
 }
+
 
 
 
